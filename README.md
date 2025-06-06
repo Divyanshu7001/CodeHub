@@ -1,4 +1,4 @@
-# CodeHub - Track your progress. Save your solutions. Understand with AI
+# CodeHub - Arrange Problems , Save solutions , Understand with AI
 
 ### A cross-platform (Leetcode,Codechef,Hackerrank,HackerEarth,NeetCode) extension to store the DSA problem , solution , solution complexity & AI generated Solution summary to mainatain a proper format as you grow the streak. 
 # Keep Solving & Let this extension take care of other things😊👍
